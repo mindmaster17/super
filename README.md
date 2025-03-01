@@ -1,4 +1,4 @@
-![Ideator](https://img.shields.io/badge/Ideator%20gect-white?style=for-the-badge&logo=actix&logoColor=black)
+![Ideator](https://img.shields.io/badge/%F0%9F%92%A1Ideator%20gect-white?style=for-the-badge)
 
 
 
