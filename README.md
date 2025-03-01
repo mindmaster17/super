@@ -1,4 +1,4 @@
-![Ideator](https://img.shields.io/badge/%F0%9F%92%A1Ideator%20gect-white?style=for-the-badge)
+![Ideator](https://img.shields.io/badge/%F0%9F%92%A1Ideator%20gect-f3f0e8?style=for-the-badge)
 
 
 
