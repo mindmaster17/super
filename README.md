@@ -1,3 +1,7 @@
+![Ideator](https://img.shields.io/badge/Ideator%20gect-white?style=for-the-badge&logo=actix&logoColor=black)
+
+
+
 # **SuperTalker: Affordable Assistive Communication Device**
 
 This project is an initiative by the **GEC Thrissur Ideator Student Team** to design a **low-cost assistive speech device** for the **National Institute of Physical Medicine and Rehabilitation (NIPMER)**. Inspired by the existing SuperTalker FeatherTouch device, our aim is to create an affordable alternative that promotes communication for individuals with speech disabilities.
